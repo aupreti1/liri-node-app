@@ -20,13 +20,13 @@ Explanation
     - Third, is the Spotify-This-Song. This function pulls up the song's name, artist, album, and a preview link. 
     - The last function is the Movie-This function. This function displays the title of the movie, year, rating, country where it was produced, language, plot, and actors in the movie.
 
-![dowhatitsays]](C:\Users\anaup\gtcbc\liri-node-app\images\Do-What-It-Says.gif)
+![dowhatitsays](/images\do-what-it-says.png?raw=true "Optional Title")
 
-![moviethis]](images\Movie-This.gif)
+![moviethis](/images\movie-this.jpg?raw=true "Optional Title")
 
-![concertthis]](images\Concert-This.gif)
+![concertthis](/images\concert-this.jpg?raw=true "Optional Title")
 
-![spotifythissong]](C:\Users\anaup\gtcbc\liri-node-app\images\Spotify-This-Song.gif)
+![spotifythissong](/images\spotify-this-song.jpg?raw=true "Optional Title")
 
 
 
